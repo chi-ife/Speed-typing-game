@@ -1,0 +1,9 @@
+focus on input when game starts
+generates random words(from an array or api, ideally)
+timing countdown function
+input matches random words
+score function
+reload
+difficulty
+toggle on settings button
+game over(final score and reload)
